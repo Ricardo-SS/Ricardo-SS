@@ -1,4 +1,4 @@
-<h2 align="center"> Olá, meu nome é Ricardo Santos! </h2>
+<h2 align="center"> Olá, meu nome é Ricardo Santos! 😄</h2>
 
 <div align="center">
   </br>
@@ -20,7 +20,9 @@
 <img align="center" alt="Ricardo-c"  heigth="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </br>
 </div>
-<hr>
+
+##
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ricardos7/"><img align="center" alt="Ricardo-link"  heigth="30" width="30" src="https://raw.githubusercontent.com/Ricardo-SS/Imagens/main/linkedin.png"></a>
