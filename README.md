@@ -1,5 +1,19 @@
 <h2 align="center"> Olá, meu nome é Ricardo Santos! 😄</h2>
 
+<h4 align="center">Sou estudante do curso de Ciência e Tecnologia pela UFERSA,
+<br>que é o primeiro ciclo de várias engenharia, inclusive da engenharia de computação,
+<br>que é a que escolhi cursar pela UFERSA - Universidade Federal Rural do Semi-Árido.
+<br>(sim, eu sei que não se usa o hífen em semiárido, porém é assim que é o nome da universidade ;)</h4>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ricardos7/"><img align="center" alt="Ricardo-link"  heigth="30" width="30" src="https://raw.githubusercontent.com/Ricardo-SS/Imagens/main/linkedin.png"></a>
+<a href="mailto:ricardo.ufersa.pdf@gmail.com"><img align="center" alt="Ricardo-email"  heigth="30" width="30" src="https://raw.githubusercontent.com/Ricardo-SS/Imagens/main/gmail.png"></a>
+<a href="https://t.me/ricardos7"><img align="center" alt="Ricardo-tele"  heigth="30" width="30" src="https://raw.githubusercontent.com/Ricardo-SS/Imagens/main/telegram.png"></a>
+ </div>
+
+<hr>
+
 <div align="center">
   </br>
   <a href="https://github.com/Ricardo-SS">
@@ -23,17 +37,8 @@
 
 ##
 
-<div align="center">
 
-<a href="https://www.linkedin.com/in/ricardos7/"><img align="center" alt="Ricardo-link"  heigth="30" width="30" src="https://raw.githubusercontent.com/Ricardo-SS/Imagens/main/linkedin.png"></a>
-<a href="mailto:ricardo.ufersa.pdf@gmail.com"><img align="center" alt="Ricardo-email"  heigth="30" width="30" src="https://raw.githubusercontent.com/Ricardo-SS/Imagens/main/gmail.png"></a>
-<a href="https://t.me/ricardos7"><img align="center" alt="Ricardo-tele"  heigth="30" width="30" src="https://raw.githubusercontent.com/Ricardo-SS/Imagens/main/telegram.png"></a>
- </div>
-<hr>
-<h4 align="center">Sou estudante do curso de Ciência e Tecnologia pela UFERSA,
-<br>que é o primeiro ciclo de várias engenharia, inclusive da engenharia de computação,
-<br>que é a que escolhi cursar pela UFERSA - Universidade Federal Rural do Semi-Árido.
-<br>(sim, eu sei que não se usa o hífen em semiárido, porém é assim que é o nome da universidade ;)</h4><hr>
+
 
 
 
