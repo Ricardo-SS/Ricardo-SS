@@ -13,14 +13,15 @@
  </div>
 
 <hr>
+<div style="display: flex; gap: 2px; align-items: center;" align="center" >
 
-<div align="center">
-  </br>
   <a href="https://github.com/Ricardo-SS">
-    <img heigth="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ricardo-SS&show_icons=true&include_all_commits=true&count_private=true&bg_color=0E031B&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&border_radius=7&border_color=00b2ff&count_private=true"/>
-  
-  <img heigth="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-SS&layout=compact&langs_count=7&bg_color=0E091B&title_color=7CFC00&text_color=ffffff&icon_color=ff2cdf&border_radius=7&border_color=7CFC00&count_private=true"/>
- 
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-SS&show_icons=true&include_all_commits=true&count_private=true&bg_color=0E031B&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&border_radius=7&border_color=00b2ff&count_private=true"/>
+  </a>
+
+  <a href="https://github.com/Ricardo-SS">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-SS&layout=compact&langs_count=7&bg_color=0E091B&title_color=7CFC00&text_color=ffffff&icon_color=ff2cdf&border_radius=7&border_color=7CFC00&count_private=true"/>
+  </a>
 </div>
 
 ##
