@@ -1,9 +1,8 @@
 <h2 align="center"> Olá, meu nome é Ricardo Santos! 😄</h2>
 
-<h4 align="center">Sou estudante do curso de Ciência e Tecnologia pela UFERSA,
-<br>que é o primeiro ciclo de várias engenharia, inclusive da engenharia de computação,
-<br>que é a que escolhi cursar pela UFERSA - Universidade Federal Rural do Semi-Árido.
-<br>(sim, eu sei que não se usa o hífen em semiárido, porém, é assim que é o nome da universidade 😄</h4>
+<h4 align="center">Sou um Full Stack em formação, cursando Ciência e Tecnologia pela UFERSA, 
+<br>Futuro engenheiro de computação,
+<br>E é isso, seja bem vindo ao meu github 😄</h4>
 
 <div align="center">
 
