@@ -1,7 +1,6 @@
-<h2 align="center"> Olá, meu nome é Ricardo Santos! 😄</h2>
+<h2 align=“center”>🚀 Bem-vindo ao universo digital de Ricardo Santos! 🚀</h2>
 
-<h4 align="center">Sou um dev Full Stack, Bacharel em Ciência e Tecnologia e cursando "Engenharia da Computacão" pela UFERSA, 
-<br>E é isso, seja bem vindo ao meu github 😄</h4>
+<h4 align=“center”>Como um dev Full Stack apaixonado e Bacharel em Ciência e Tecnologia, estou sempre em busca de novos desafios. Atualmente, estou aprimorando minhas habilidades na “Engenharia da Computação” pela UFERSA. <br>Prepare-se para uma jornada emocionante através do meu GitHub! 😄</h4>
 
 <div align="center">
 
